@@ -1,4 +1,4 @@
-#: locale=jp
+#: locale=es
 
 ## Action
 
@@ -30,8 +30,8 @@ photo_46520DAD_616B_68B0_41CC_B6D50FF102BF.label = white-train-traveling-on-trac
 photo_46520DAD_616B_68B0_41CC_B6D50FF102BF.label = white-train-traveling-on-tracks-beside-trees-and-g-2025-02-11-19-40-46-utc
 
 ### Video
-videolevel_753697C6_616B_EC96_41D0_A194CFCC9666.url = media/video_5178852F_61E5_B98F_41CB_E4F6755B7A23_es.mp4
-videolevel_753697C6_616B_EC96_41D0_A194CFCC9666.posterURL = media/video_5178852F_61E5_B98F_41CB_E4F6755B7A23_poster_es.jpg
+videolevel_72CE1B90_6177_FA10_41BB_DEF2B4618501.url = media/video_5178852F_61E5_B98F_41CB_E4F6755B7A23_es.mp4
+videolevel_72CE1B90_6177_FA10_41BB_DEF2B4618501.posterURL = media/video_5178852F_61E5_B98F_41CB_E4F6755B7A23_poster_es.jpg
 
 ### Video Subtitles
 
@@ -58,3 +58,12 @@ IconButton_85265B23_8D1E_B01D_41E0_8CB2C82C1F5E.toolTip = SHOW FLOORPLANS
 
 ### Title
 tour.name = Monorail
+
+## VR Menu
+
+### Text
+MenuItem_6C093F7D_6175_3A10_41D6_B6AFD96D799D.label = 3d-house-interior-2024-10-18-06-27-02-utc
+Menu_6C207F5C_6175_3A10_41C9_554E7D499CF2.label = Media
+MenuItem_6C092F7D_6175_3A10_41D5_4863C80E02B8.label = metro_vijzelgracht_2k
+MenuItem_6C091F7D_6175_3A10_41BC_8DCBF06734E2.label = office-modern-loft-2024-10-18-05-12-44-utc
+MenuItem_6C090F7D_6175_3A10_41B3_1A222301AF40.label = panorana-of-modern-interior-room-2024-10-17-12-44-59-utc
