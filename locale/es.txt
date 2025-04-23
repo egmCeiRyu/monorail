@@ -1,4 +1,4 @@
-#: locale=es
+#: locale=jp
 
 ## Action
 
@@ -57,4 +57,4 @@ IconButton_85265B23_8D1E_B01D_41E0_8CB2C82C1F5E.toolTip = SHOW FLOORPLANS
 ### Description
 
 ### Title
-tour.name = New_American_Home_light
+tour.name = Monorail
