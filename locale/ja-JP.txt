@@ -1,0 +1,62 @@
+#: locale=ja-JP
+
+## Action
+
+### PDF
+PopupPDFBehaviour_7B0A9EF4_61E8_284C_41CE_F008197AA362.url = files/Jorudan_Osakamonorail_railmap_ja-JP.pdf
+
+### URL
+PopupWebFrameBehaviour_72F5FB12_60A5_6990_41B8_A16BF3F95309.url = //www.youtube.com/embed/Frlpig77le4?si=BvnaGszmqUlkgzYw
+
+## Media
+
+### Title
+panorama_4EB0DFE8_61BE_A8B0_41CD_DEDDE8CC3774.label = 3d-house-interior-2024-10-18-06-27-02-utc
+album_46426AB1_609A_A893_41CE_7F17C5E2B483.label = Photo Album monorail1
+video_5178852F_61E5_B98F_41CB_E4F6755B7A23.label = aerial-drone-footage-with-top-down-view-of-santiag-2024-09-03-16-38-33-utc
+panorama_513EA4B6_61FA_B891_41D1_CEEB46B5146F.label = metro_vijzelgracht_2k
+album_46426AB1_609A_A893_41CE_7F17C5E2B483_0.label = monorail1
+album_46426AB1_609A_A893_41CE_7F17C5E2B483_1.label = monorail2
+album_46426AB1_609A_A893_41CE_7F17C5E2B483_2.label = monorail3
+panorama_5A71C6D6_579A_D246_41D3_971DCFD036F9.label = office-modern-loft-2024-10-18-05-12-44-utc
+panorama_489BE0F0_5B78_304E_41C7_8D6EDA6DA9C9.label = panorana-of-modern-interior-room-2024-10-17-12-44-59-utc
+photo_46520DAD_616B_68B0_41CC_B6D50FF102BF.label = white-train-traveling-on-tracks-beside-trees-and-g-2025-02-11-19-40-46-utc
+photo_46520DAD_616B_68B0_41CC_B6D50FF102BF.label = white-train-traveling-on-tracks-beside-trees-and-g-2025-02-11-19-40-46-utc
+
+### Video
+videolevel_7F9DAE03_61E8_2BC4_41A7_1E7C53F4CFB8.url = media/video_5178852F_61E5_B98F_41CB_E4F6755B7A23_ja-JP.mp4
+videolevel_7F9DAE03_61E8_2BC4_41A7_1E7C53F4CFB8.posterURL = media/video_5178852F_61E5_B98F_41CB_E4F6755B7A23_poster_ja-JP.jpg
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_7513EBBA_61D8_28C5_41C2_D8E63C721645.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:1.4814814814814814vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;">2018年から運行を開始した3000系は、「やさしさ・おもてなし」「清潔感・開放感」「楽しさ」「チャレンジ」などをキーワードに、ご家族みんなで、また多くのお客さまが一緒にご利用できるような工夫を車両随所に施しています。</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.4814814814814814vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;">眺望を楽しめるようガラス面積を大きく取った開放感のあるインテリア、ベビーカー利用者などを考慮して寄り掛かり用の腰あてクッションを設けるなどのユーティリティーへの配慮、内装の統一感などが評価され、公益財団法人日本デザイン振興会主催「2018年度グッドデザイン賞」を受賞しました。</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.4814814814814814vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.48vh;font-family:Arial, Helvetica, sans-serif;">グッドデザイン賞は、多様な事象の中から「よいデザイン」を選定・顕彰することを通じ、私たちのくらしを、産業を、そして社会全体を、より豊かなものへと導くことを目的とした「総合的なデザインの推奨制度」です。</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_75113BB9_61D8_28C6_41B9_94393EA0FD05.title = みんなに優しく、快適な乗り心地を実現
+
+## Skin
+
+### Image
+Image_462E77D1_56DC_DA31_41CB_4B33E278BE93.url = skin/Image_462E77D1_56DC_DA31_41CB_4B33E278BE93_ja-JP.png
+Image_46706D32_56DD_CE70_41B7_5D4E090FAF58.url = skin/Image_46706D32_56DD_CE70_41B7_5D4E090FAF58_ja-JP.png
+Image_46738E1D_56E4_CA31_41D0_0983ED983E26.url = skin/Image_46738E1D_56E4_CA31_41D0_0983ED983E26_ja-JP.png
+Image_8FEB3DE2_80FF_8B29_41CF_0CE823C9CFC1.url = skin/Image_8FEB3DE2_80FF_8B29_41CF_0CE823C9CFC1_ja-JP.png
+
+### Label
+Label_59C25EAD_56AC_4A10_41CA_CB010D0C74A2.text = Photography by Jeff Davis
+
+### Tooltip
+IconButton_E37CA9B7_E983_F12E_41E9_5FA0638D4D8D.toolTip = ACTIVATE VR MODE (MOBILE ONLY)
+IconButton_EF8BF2CF_E362_CA64_41CB_5CE4DACA5634.toolTip = PANORAMA LIST
+IconButton_68CA5182_6070_7D3E_419C_BF635DC7C626.toolTip = PHOTO ALBUM
+IconButton_85265B23_8D1E_B01D_41E0_8CB2C82C1F5E.toolTip = SHOW FLOORPLANS
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Monorail
