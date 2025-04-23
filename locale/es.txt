@@ -30,8 +30,8 @@ photo_46520DAD_616B_68B0_41CC_B6D50FF102BF.label = white-train-traveling-on-trac
 photo_46520DAD_616B_68B0_41CC_B6D50FF102BF.label = white-train-traveling-on-tracks-beside-trees-and-g-2025-02-11-19-40-46-utc
 
 ### Video
-videolevel_4FA9C81C_61EF_5790_41C8_8115550D6305.url = media/video_5178852F_61E5_B98F_41CB_E4F6755B7A23_es.mp4
-videolevel_4FA9C81C_61EF_5790_41C8_8115550D6305.posterURL = media/video_5178852F_61E5_B98F_41CB_E4F6755B7A23_poster_es.jpg
+videolevel_753697C6_616B_EC96_41D0_A194CFCC9666.url = media/video_5178852F_61E5_B98F_41CB_E4F6755B7A23_es.mp4
+videolevel_753697C6_616B_EC96_41D0_A194CFCC9666.posterURL = media/video_5178852F_61E5_B98F_41CB_E4F6755B7A23_poster_es.jpg
 
 ### Video Subtitles
 
